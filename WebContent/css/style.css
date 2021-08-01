@@ -8,3 +8,9 @@ table,th,td {
 input{
  border-style:none;
 }
+.box{
+	width: 480px;
+	border: 10px #ddd solid;
+	margin-bottom: 20px
+	text-align: center;
+}
